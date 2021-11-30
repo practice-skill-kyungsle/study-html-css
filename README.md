@@ -20,7 +20,7 @@
 
 ###### [9. HTML과 자바스크립트로 창(window) 컨트롤하기](https://basemenks.tistory.com/40)
 
-###### [10. DOM에서 getElementBy(TagName/ClassName/Id) 사용법 (+querySelector)](10. DOM에서 getElementBy(TagName/ClassName/Id) 사용법 (+querySelector))
+###### [10. DOM에서 getElementBy(TagName/ClassName/Id) 사용법 (+querySelector)](https://basemenks.tistory.com/41)
 
 ###### [11. 자바스크립트 Event(Target, Listener)에 대해서](https://basemenks.tistory.com/42)
 
