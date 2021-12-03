@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <div id="root"></div>
+</body>
+<script src="https://unpkg.com/react@17.0.2/umd/react.production.min.js"></script>
+<script src="https://unpkg.com/react-dom@17.0.2/umd/react-dom.production.min.js"></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+<script type="text/babel">
+    const root = document.getElementById("root");
+
+
+    const App = function () {
+        return (
+            <div>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                </ul>
+                <ul>
+                    <li>1</li>
+                    <li>2</li>
+                    <li>3</li>
+                </ul>
+                <ol>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                </ol>
+                
+                {changeCss}
+            </div>
+
+        );
+    }
+
+    const changeCss = function () {
+        ReactDOM.render(<App />, root);
+        var ul = document.getElementsByTagName('ul')[0];
+        var lis = ul.getElementsByTagName('li');
+        for (var i = 0; i < lis.length; i++) {
+            lis[i].style.color = 'red';
+        }
+    }
+
+    changeCss()
+
+    ReactDOM.render(<App />, root);
+</script>
+</html>

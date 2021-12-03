@@ -2,25 +2,41 @@
 
 ### 생활코딩 및 tcpschool 에서 강의를 들으며 Vanill JS 을 이용해 웹을 구축하는 방법과 개념을 탐구합니다.
 
-🔥 각 day 폴더의 origin_src 는 기본 생활코딩 예제로, Vanilla JS 로 쓰였습니다.
+<br />
+
+🔥 각 day 폴더의 vanilla_src 는 기본 생활코딩 예제로, Vanilla JS 로 쓰였습니다.
+
+🔥 각 day 폴더의 react_src 는 vanilla code 를 react 로 다시한 번 써보았습니다.
 
 <br />
 
 <hr>
 
-### 전체 블로깅
+## 🤯 전체 블로깅
+
+---
 
 #### Day 1
 
+---
+
 ###### [1. HTML코드에 CSS와 JS코드 넣기 (Web Javascript/document.body/className)](https://basemenks.tistory.com/19)
 
+---
+
 #### Day 2
+
+---
 
 ###### [2. HTML파일에 자바스크립트 연결하기 (inline/script)](https://basemenks.tistory.com/20)
 
 ###### [3. getElementsByTagName 메서드로 브라우저 변화시키기](https://basemenks.tistory.com/21)
 
+---
+
 #### Day 3
+
+---
 
 ###### [4. BOM과 DOM에 대하여 (Object Model/객체화)](https://basemenks.tistory.com/22)
 
@@ -33,6 +49,12 @@
 ###### [8. 자바스크립트 BOM에서 navigator 객체란? (appName/appVersion)](https://basemenks.tistory.com/39)
 
 ###### [9. HTML과 자바스크립트로 창(window) 컨트롤하기](https://basemenks.tistory.com/40)
+
+---
+
+#### Day 4
+
+---
 
 ###### [10. DOM에서 getElementBy(TagName/ClassName/Id) 사용법 (+querySelector)](https://basemenks.tistory.com/41)
 

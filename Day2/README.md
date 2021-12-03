@@ -1,6 +1,12 @@
 # VanillaJS_For_Web
 
-HTML 에 JavaScript 코드를 연결할 수 있는 방법을 탐구해봅니다.
+### HTML 에 JavaScript 코드를 연결할 수 있는 방법을 탐구해봅니다.
+
+<br />
+
+<hr />
+
+### 🤯 블로깅 내용
 
 ###### [2. HTML파일에 자바스크립트 연결하기 (inline/script)](https://basemenks.tistory.com/20)
 

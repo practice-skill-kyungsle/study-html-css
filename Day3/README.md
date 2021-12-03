@@ -2,13 +2,25 @@
 
 본격적으로 DOM 과 BOM 을 살펴보며, 개념 및 내부 메서드를 살펴봅니다.
 
-🔥 origin_src 는 기본 생활코딩 예제로, Vanilla JS 로 쓰였습니다.
+🔥 vanilla_src 는 기본 생활코딩 예제로, Vanilla JS 로 쓰였습니다.
+
+🔥 react_src 는 vanilla code 를 react 로 다시한 번 써보았습니다.
 
 <br />
 
 <hr>
 
-#### 블로깅 내용
+### 각 html 파일들의 용도
+
+- windowopen.html : window.open 메서드를 연습합니다.
+
+- demo2.html : 다른 html 파일에서 호출되는 기본 html 파일
+
+<br />
+
+<hr>
+
+### 🤯 블로깅 내용
 
 ###### [4. BOM과 DOM에 대하여 (Object Model/객체화)](https://basemenks.tistory.com/22)
 

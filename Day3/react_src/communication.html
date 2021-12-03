@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <div id="root"></div>
+</body>
+
+<script src="https://unpkg.com/react@17.0.2/umd/react.production.min.js"></script>
+<script src="https://unpkg.com/react-dom@17.0.2/umd/react-dom.production.min.js"></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+<script type="text/babel">
+
+    const root = document.getElementById("root");
+
+    const App = function ()
+    {
+        let win;
+        // (1)
+        function winopen(){
+            win = window.open('demo2.html', 'ot', 'width=300px, height=500px');
+        } 
+
+        //(2)
+        function winmessage(msg){
+            win.document.getElementById('message').innerText=msg;
+        }  // innerText가 div안의 글자를 수정해줄 수 있는 메소드인듯!
+
+        //(3)
+        function winclose(){
+            win.close();
+        }
+
+        return (
+            <div>
+                <input type="button" value="open" onClick={winopen} />
+                <input type="text" onKeyPress={(event)=>{winmessage(event.target.value)}} />
+                <input type="button" value="close" onClick={winclose} />
+            </div>
+        );
+    }
+
+    ReactDOM.render(<App />, root);
+
+</script>
+</html>
