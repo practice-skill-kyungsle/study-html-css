@@ -1,26 +1,14 @@
 # VanillaJS_For_Web
 
-### 생활코딩 및 tcpschool 에서 강의를 들으며 Vanill JS 을 이용해 웹을 구축하는 방법과 개념을 탐구합니다.
+본격적으로 DOM 과 BOM 을 살펴보며, 개념 및 내부 메서드를 살펴봅니다.
 
-🔥 각 day 폴더의 origin_src 는 기본 생활코딩 예제로, Vanilla JS 로 쓰였습니다.
+🔥 origin_src 는 기본 생활코딩 예제로, Vanilla JS 로 쓰였습니다.
 
 <br />
 
 <hr>
 
-### 전체 블로깅
-
-#### Day 1
-
-###### [1. HTML코드에 CSS와 JS코드 넣기 (Web Javascript/document.body/className)](https://basemenks.tistory.com/19)
-
-#### Day 2
-
-###### [2. HTML파일에 자바스크립트 연결하기 (inline/script)](https://basemenks.tistory.com/20)
-
-###### [3. getElementsByTagName 메서드로 브라우저 변화시키기](https://basemenks.tistory.com/21)
-
-#### Day 3
+#### 블로깅 내용
 
 ###### [4. BOM과 DOM에 대하여 (Object Model/객체화)](https://basemenks.tistory.com/22)
 
