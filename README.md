@@ -57,3 +57,20 @@
 ###### [12. Node에 대하여 (자바스크립트/node/nodeName/nodeValue)](https://basemenks.tistory.com/43)
 
 ###### [13. Node List란 무엇인가 (node Value, childNode, 자바스크립트)](https://basemenks.tistory.com/44)
+
+## 
+
+
+<br />
+
+<hr />
+
+## 제작 히스토리
+
+#### 21.08.23 ~ 21.09.08 
+
+Vanilla JavaScript src done!
+
+#### 21.12.01 ~ 
+
+Vanilla JS to React!
