@@ -14,14 +14,12 @@
 
 ## 🤯 전체 블로깅
 
-
-
 #### Day 1
 
 
 ###### [1. HTML코드에 CSS와 JS코드 넣기 (Web Javascript/document.body/className)](https://basemenks.tistory.com/19)
 
-- - -
+---
 
 #### Day 2
 
