@@ -14,11 +14,9 @@
 
 ## 🤯 전체 블로깅
 
----
 
 #### Day 1
 
----
 
 ###### [1. HTML코드에 CSS와 JS코드 넣기 (Web Javascript/document.body/className)](https://basemenks.tistory.com/19)
 
@@ -26,7 +24,6 @@
 
 #### Day 2
 
----
 
 ###### [2. HTML파일에 자바스크립트 연결하기 (inline/script)](https://basemenks.tistory.com/20)
 
@@ -36,7 +33,6 @@
 
 #### Day 3
 
----
 
 ###### [4. BOM과 DOM에 대하여 (Object Model/객체화)](https://basemenks.tistory.com/22)
 
@@ -54,7 +50,6 @@
 
 #### Day 4
 
----
 
 ###### [10. DOM에서 getElementBy(TagName/ClassName/Id) 사용법 (+querySelector)](https://basemenks.tistory.com/41)
 
